@@ -15,12 +15,13 @@
 - Create a series from dictionary
   
 **Pandas Series Attribute**
-    - size
-    - dtype
-    - name
-    - is_unique
-    - values
-- Series using read_csv() function
+- size
+- dtype
+- name
+- is_unique
+- values
+
+**Series using read_csv() function**
   
 **Pandas Series methods**
   - head()
@@ -29,6 +30,7 @@
   - value_counts()
   - sort_counts()
   - sort_index()
+
 **Pandas Series Mathematical methods**
   - count()
   - sum()
