@@ -13,21 +13,21 @@
 - Creating a pandas series
 - Create a series from lists
 - Create a series from dictionary
-- **Pandas Series Attribute**
+**Pandas Series Attribute**
     - size
     - dtype
     - name
     - is_unique
     - values
 - Series using read_csv() function
-- **Pandas Series methods**
+**Pandas Series methods**
   - head()
   - tail()
   - sample()
   - value_counts()
   - sort_counts()
   - sort_index()
-- **Pandas Series Mathematical methods**
+**Pandas Series Mathematical methods**
   - count()
   - sum()
   - product()
