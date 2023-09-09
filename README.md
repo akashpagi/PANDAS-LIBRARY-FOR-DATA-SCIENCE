@@ -13,6 +13,7 @@
 - Creating a pandas series
 - Create a series from lists
 - Create a series from dictionary
+  
 **Pandas Series Attribute**
     - size
     - dtype
@@ -20,6 +21,7 @@
     - is_unique
     - values
 - Series using read_csv() function
+  
 **Pandas Series methods**
   - head()
   - tail()
